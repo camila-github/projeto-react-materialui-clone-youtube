@@ -7,7 +7,7 @@
 - ReactJS: [https://pt-br.reactjs.org/](https://pt-br.reactjs.org/)
 - MaterialUI: [https://material-ui.com/](https://material-ui.com/)
 - Styled Components: [https://mui.com/guides/interoperability/#heading-styled-components](https://mui.com/guides/interoperability/#heading-styled-components)
-- Imagens de animação retiradas do site (arquivos .json - opção free): [https://lottiefiles.com/](https://lottiefiles.com/)
+- Imagens de animação retiradas do site (arquivos .json - opção Free): [https://lottiefiles.com/](https://lottiefiles.com/)
 - Referencia para o projeto - LucasNhimi: [https://www.youtube.com/watch?v=u9FnmBdBl5k&list=PLkFMdTTdI9c3_ioUSdSCTODEO2JEHJfau](https://www.youtube.com/watch?v=u9FnmBdBl5k&list=PLkFMdTTdI9c3_ioUSdSCTODEO2JEHJfau)
 
 

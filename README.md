@@ -8,12 +8,12 @@
 - MaterialUI: [https://material-ui.com/](https://material-ui.com/)
 - Styled Components: [https://mui.com/guides/interoperability/#heading-styled-components](https://mui.com/guides/interoperability/#heading-styled-components)
 - Imagens de animação retiradas do site (arquivos .json - opção free): [https://lottiefiles.com/](https://lottiefiles.com/)
-- Referencia para o projeto: [https://www.youtube.com/watch?v=u9FnmBdBl5k&list=PLkFMdTTdI9c3_ioUSdSCTODEO2JEHJfau](https://www.youtube.com/watch?v=u9FnmBdBl5k&list=PLkFMdTTdI9c3_ioUSdSCTODEO2JEHJfau)
+- Referencia para o projeto - LucasNhimi: [https://www.youtube.com/watch?v=u9FnmBdBl5k&list=PLkFMdTTdI9c3_ioUSdSCTODEO2JEHJfau](https://www.youtube.com/watch?v=u9FnmBdBl5k&list=PLkFMdTTdI9c3_ioUSdSCTODEO2JEHJfau)
 
 
 ## Vídeo de demonstração do aplicativo
 
 <p align="center">
-   <img src=""/>
+   <img src="https://github.com/camila-github/projeto-react-materialui-clone-youtube/blob/main/docs/video.gif"/>
 </p>
 
